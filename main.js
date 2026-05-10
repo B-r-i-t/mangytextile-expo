@@ -6,8 +6,10 @@ const products = [
     id: 1,
     name: "Boutique Juvenil",
     category: "mixed",
-    video: "videos/fav/fav 1.mp4",
-    image: "image /favorite /fav (5).png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409575/fav_1_bmnlqz.mp4",
+    image:
+      "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406088/fav_5_iv1wqt.png",
     price: 645,
     oldPrice: "750",
     stars: 5, // ← add
@@ -24,7 +26,8 @@ const products = [
     id: 2,
     name: "Vestido De Fiesta Nuevo",
     category: "dresses",
-    image: "image /favorite /fav (4).png",
+    image:
+      "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406082/fav_4_hcrg85.png",
     price: 500,
     oldPrice: 720,
     desc: "New Party Dress Paca premium con vestidos de fiesta para mujer, ideales para eventos y celebraciones.Incluye diferentes estilos, colores y tallas, con 70–80% tallas regulares y 20–30% tallas plus size, modernos y elegantes.✨ Perfecta para revendedores que buscan prendas de alta demanda, moda femenina y excelente rotación.",
@@ -38,8 +41,10 @@ const products = [
     id: 3,
     name: "Premium Winter Mix",
     category: "brand",
-    image: "image /favorite /fav (3).png",
-    video: "videos/free-shipping/Premium Children's Winter Mix.mp4",
+    image:
+      "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406093/fav_3_kbduv8.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409493/Premium_Children_Mix_0-16_zidadc.mp4",
     price: 500,
     oldPrice: 650,
     desc: "Premium Mixto de Frío – Paca de Invierno Paca premium con ropa de invierno para hombre y mujer, cuidadosamente seleccionada. Incluye suéteres, chaquetas, abrigos, hoodies y prendas térmicas en diferentes tallas y estilos. Ideal para quienes buscan moda de temporada con alta calidad y excelente presentación.",
@@ -53,7 +58,8 @@ const products = [
     id: 4,
     name: "Ladies Cardigans* #1",
     category: "pants",
-    image: "image /favorite /fav (2).png",
+    image:
+      "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406078/fav_2_lbni4h.png",
     price: 130,
     oldPrice: 200,
     desc: "Chaquetas de Punto para Mujer #1 y #2 Paca premium con chaquetas de punto para dama, ideales para la temporada de invierno. Incluye diferentes tallas, estilos y colores, con prendas cómodas, modernas y de excelente presentación. 💡 Perfecta para revendedores que buscan ropa femenina de alta calidad y rotación garantizada.",
@@ -67,8 +73,10 @@ const products = [
     id: 5,
     name: "TGT Children's Mixed",
     category: "kids",
-    image: "image /favorite /fav (6).png",
-    video: "videos/free-shipping/TGT Children's Mixed.mp4",
+    image:
+      "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406111/fav_6_tqwpah.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409360/TGT_Children_s_Mixed_eokzup.mp4",
     price: 850,
     oldPrice: 950,
     desc: "TGT Children Mix 👕 (370–400 piezas aprox.) Ropa Nueva de Saldos Paca mixta de ropa para niños y niñas de 0 a 14 años, ideal para tiendas o revendedores que buscan artículos nuevos y de excelente calidad. Incluye ropa de verano e invierno, con una gran variedad de estilos, colores y tallas. Calidad TGT (Saldos de tienda) — algunas prendas pueden incluir retornos o piezas sin etiqueta. Perfecta para negocios que buscan ropa infantil nueva y variada para todas las edades.",
@@ -82,8 +90,10 @@ const products = [
     id: 6,
     name: "New Nurse",
     category: "dresses",
-    image: "image /favorite /fav (8).png",
-    video: "videos/free-shipping/New Nurse.mp4",
+    image:
+      "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406090/fav_8_mu8trj.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409087/New_Nurse_timvia.mp4",
     price: 455,
     oldPrice: 800,
     desc: "Enfermería Nuevo 👩‍⚕️ Ropa Nueva de Uniformes Profesionales Dentro de esta paca encontrarás una gran selección de uniformes nuevos de enfermería, con prendas tanto con etiqueta como sin etiqueta, cuidadosamente seleccionadas para uso profesional.",
@@ -97,7 +107,8 @@ const products = [
     id: 7,
     name: "Winter Boutique for Young Adults",
     category: "mixed",
-    image: "image /favorite /fav (9).png",
+    image:
+      "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406105/fav_9_yicwx8.png",
     price: 350,
     oldPrice: 550,
     desc: "Boutique Winter Juvenil ❄️ Ropa Americana Ligeramente Usada Paca de +200 prendas juveniles modernas, ideal para temporada de invierno. Incluye suéteres, hoodies, jeans y blusas de marcas reconocidas. Calidad #1, perfecta para negocios que buscan moda actual y gran rotación.",
@@ -112,7 +123,8 @@ const products = [
     name: "Men's Casual Bale",
     category: "mixed",
 
-    image: "image /favorite /fav (1).png",
+    image:
+      "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406095/fav_1_sb3b0x.png",
     price: 250,
     oldPrice: 550,
     desc: "Men's casual wear — polos, tees, shorts, and light jackets. Great everyday styles.",

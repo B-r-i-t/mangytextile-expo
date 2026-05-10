@@ -13,8 +13,9 @@ const free_shipping = [
     showDetails: true,
     offer: true,
     type: "winter",
-    img: "image /free_shipping/free (10).png",
-    video: "videos/free-shipping/Premium Winter Mix.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406093/fav_3_kbduv8.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409393/Premium_Winter_Mix_ydtvfd.mp4",
     desc: "Paca premium con ropa de invierno para hombre y mujer, cuidadosamente seleccionada. Incluye suéteres, chaquetas, abrigos, hoodies y prendas térmicas en diferentes tallas y estilos. Ideal para quienes buscan moda de temporada con alta calidad y excelente presentación.",
   },
   {
@@ -28,8 +29,9 @@ const free_shipping = [
     showDetails: true,
     offer: true,
     type: "mix",
-    img: "image /free_shipping/free (9).png",
-    video: "videos/free-shipping/TGT Credencial Mix.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406243/free_9_tyf4qe.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409297/TGT_Credencial_Mix_uiofxx.mp4",
     desc: "TGT Credencial Mixta 👕👗 (Aprox. 200 piezas) Ropa Americana Nueva de Saldos Paca mixta con ropa para mujer, hombre y niños, ideal para revendedores o tiendas que buscan surtido variado y de excelente presentación. Incluye prendas de verano e invierno, en tallas regulares hasta plus size, con una amplia variedad de diseños, colores y estilos.",
   },
   {
@@ -43,8 +45,9 @@ const free_shipping = [
     showDetails: true,
     offer: true,
     type: "kids",
-    img: "image /free_shipping/free (8).png",
-    video: "videos/free-shipping/Children Winter Mix.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406242/free_8_hjoic2.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778408845/Children_Winter_Mix_cpceum.mp4",
     desc: "Frío Mixto de Niños #2 Paca intermedia con ropa de invierno para niños y niñas, incluyendo chaquetas, suéteres y pantalones. Incluye diferentes tallas, estilos, colores y materiales, cómodos, cálidos y modernos. ✨ Perfecta para revendedores que buscan prendas infantiles de temporada con buena rotación y presentación.",
   },
   {
@@ -58,8 +61,9 @@ const free_shipping = [
     showDetails: true,
     offer: true,
     type: "nurse",
-    img: "image /free_shipping/free (7).png",
-    video: "videos/free-shipping/New Nurse.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406090/fav_8_mu8trj.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409087/New_Nurse_timvia.mp4",
     desc: "Enfermería Nuevo 👩⚕️ Ropa Nueva de Uniformes Profesionales Dentro de esta paca encontrarás una gran selección de uniformes nuevos de enfermería, con prendas tanto con etiqueta como sin etiqueta, cuidadosamente seleccionadas para uso profesional.",
   },
   {
@@ -73,8 +77,9 @@ const free_shipping = [
     showDetails: true,
     offer: false,
     type: "kids",
-    img: "image /free_shipping/free (6).png",
-    video: "videos/free-shipping/Premium Children's Winter Mix.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406221/free_6_invmzx.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409333/Premium_Children_s_Winter_Mix_lop2y3.mp4",
     desc: "Premium Niño Frío Mixto Paca premium con ropa de invierno para niños y niñas, incluyendo chaquetas, suéteres, pantalones y accesorios. Incluye diferentes estilos, tallas, colores y materiales, cómodos, cálidos y modernos. ✨ Perfecta para revendedores que buscan prendas infantiles de alta calidad y excelente rotación.",
   },
   {
@@ -88,8 +93,9 @@ const free_shipping = [
     showDetails: true,
     offer: true,
     type: "kids",
-    img: "image /free_shipping/free (5).png",
-    video: "videos/free-shipping/TGT Children's Mixed.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406242/free_5_x22rkn.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409360/TGT_Children_s_Mixed_eokzup.mp4",
     desc: "TGT Children Mix 👕 (370–400 piezas aprox.) Ropa Nueva de Saldos Paca mixta de ropa para niños y niñas de 0 a 14 años, ideal para tiendas o revendedores que buscan artículos nuevos y de excelente calidad. Incluye ropa de verano e invierno, con una gran variedad de estilos, colores y tallas. Calidad TGT (Saldos de tienda) — algunas prendas pueden incluir retornos o piezas sin etiqueta.",
   },
   {
@@ -103,8 +109,9 @@ const free_shipping = [
     showDetails: true,
     offer: true,
     type: "winter",
-    img: "image /free_shipping/free (4).png",
-    video: "videos/free-shipping/Premium Oversize Winter.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406225/free_4_jtos61.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778408867/Premium_Oversize_Winter_tx7xjw.mp4",
     desc: "Ropa de Invierno Tallas Grandes Paca premium con ropa de invierno para mujer y hombre en tallas grandes. Incluye suéteres, chaquetas, hoodies y prendas térmicas en estilos modernos y cómodos. Ideal para quienes buscan moda de invierno oversize con alta calidad y excelente presentación.",
   },
   {
@@ -118,8 +125,9 @@ const free_shipping = [
     showDetails: false,
     offer: true,
     type: "winter",
-    img: "image /free_shipping/free (3).png",
-    video: "videos/free-shipping/Premium Hoodie Sweat Shirt.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406235/free_3_vxccvl.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778408890/Premium_Hoodie_Sweat_ShirA_gt6sse.mp4",
     desc: "Sudadera con Gorro Premium 🧥Ropa Americana Ligeramente Usada Paca de 100 lbs con sudaderas premium para hombre y mujer, ideales para la temporada de invierno. Calidad Premium, con 150–180 piezas de excelente estilo y presentación.",
   },
   {
@@ -133,7 +141,7 @@ const free_shipping = [
     showDetails: false,
     offer: false,
     type: "mix",
-    img: "image /free_shipping/free (2).png",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406220/free_2_fqznui.png",
     desc: "Regular Plus Mix 👚 Ropa Americana Ligeramente Usada Paca versátil de verano con ropa para dama y caballero en tallas XL y mayores. Ofrece una mezcla moderna de colores y estilos con un toque juvenil y actual. Ideal para quienes buscan variedad, frescura y moda llamativa con personalidad.",
   },
   {
@@ -147,7 +155,7 @@ const free_shipping = [
     showDetails: false,
     offer: true,
     type: "mix",
-    img: "image /free_shipping/free (1).png",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406328/premium_6_dqvii3.png",
     desc: "Ropa Mixta Tallas Grandes Premium 👕👗Ropa Americana Ligeramente Usada Paca de 100 lbs con ropa mixta de tallas grandes (plus size) para hombre y mujer. Calidad Premium, ideal para todas las temporadas, con prendas modernas, cómodas y de excelente calidad. Perfecta para reventa o surtido plus size de alta rotación y estilo actual.",
   },
 ];
@@ -168,8 +176,8 @@ const new_releases = [
     showDetails: false,
     offer: true,
     type: "mix",
-    img: "image /new-releases/new (9).png",
-    video: "",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406287/new_9_ypzlpx.png",
+    // video: "",
   },
   {
     id: 2,
@@ -182,8 +190,9 @@ const new_releases = [
     showDetails: false,
     offer: false,
     type: "mix",
-    img: "image /new-releases/new (8).png",
-    video: "videos/new-release/Outdoor Mix.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406291/new_8_ozotso.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778407734/Outdoor_Mix_eofbwt.mp4",
     desc: "Outdoor Mix Paca #1 con suéteres y chaquetas de marcas como Columbia, Patagonia, Realtree, Magellan y The North Face. Incluye ropa de hombre y mujer, tallas XS a Plus. Contenido: 95% winter, 5% summer, calidad 1 y 2. 💡 Ideal para revendedores que buscan marcas reconocidas y excelente rotación.",
   },
   {
@@ -197,7 +206,7 @@ const new_releases = [
     showDetails: false,
     offer: true,
     type: "kids",
-    img: "image /new-releases/new (7).png",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406283/new_7_itdntp.png",
   },
   {
     id: 4,
@@ -210,7 +219,7 @@ const new_releases = [
     showDetails: false,
     offer: true,
     type: "nurse",
-    img: "image /new-releases/new (6).png",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406289/new_6_xvoydh.png",
   },
   {
     id: 5,
@@ -223,8 +232,9 @@ const new_releases = [
     showDetails: true,
     offer: false,
     type: "mix",
-    img: "image /new-releases/new (5).png",
-    video: "videos/new-release/Texas Boutique.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406287/new_5_fhi9ca.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778408712/Texas_Boutique_evbcsd.mp4",
     desc: "✨ Texas Mix Premium – Mezcla Texas Premium 💎 La paca que marca la diferencia en tu inventario. ✅ Prendas modernas y juveniles ✅ Mezcla dama + caballero en alta calidad ✅ Colores vibrantes de verano ☀️ ✅ Algunas piezas ¡nuevas con etiqueta! 🏷️ 🔥 Ideal para negocios que buscan moda americana premium con excelente rotación. 👉 ¡Aumenta tus ventas con la paca más exclusiva del verano!",
   },
   {
@@ -238,8 +248,9 @@ const new_releases = [
     showDetails: true,
     offer: false,
     type: "sweat",
-    img: "image /new-releases/new (4).png",
-    video: "videos/fav/fav 1.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406088/fav_5_iv1wqt.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409575/fav_1_bmnlqz.mp4",
     desc: "Boutique Juvenile Mix 👚 Ropa Americana Ligeramente Usada Paca moderna y versátil con ropa para dama y caballero en tallas S, M, L y XL. Incluye prendas juveniles de temporada, con estilos casuales, frescos y urbanos. Perfecta para negocios que buscan moda accesible, auténtica y con personalidad.",
   },
   {
@@ -253,8 +264,9 @@ const new_releases = [
     showDetails: true,
     offer: false,
     type: "mix",
-    img: "image /new-releases/new (3).png",
-    video: "videos/new-release/Mixta Summer Premium Juvenil.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406286/new_3_ouekjk.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778407637/Mixta_Summer_Premium_Juvenil_nsxacd.mp4",
     desc: "Mixta summer Premium Juvenil Especificaciones importantes Peso: 100 Lbs. Tipo de ropa: Ropa de hombre y mujer Temporada: Ropa de verano Calidad: Premium Contiene: Todo tipo de material de ropa, tallas y estilos.",
   },
   {
@@ -268,8 +280,9 @@ const new_releases = [
     showDetails: false,
     offer: false,
     type: "winter",
-    img: "image /new-releases/new (2).png",
-    video: "videos/new-release/Men Levi’s Nuevo.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406268/new_2_s87ysh.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778407517/Men_Levi_s_Nuevo_ytycxp.mp4",
     desc: "Men Levi's New Especificaciones importantes Peso: Apprx: 90 a 100 lbs Tipo de ropa: Ropa de hombre Temporada: Ropa de verano Calidad: Premium (Grado AAA) Cantidad (PC): 60 Contiene: Pantalones Levi’s de diferentes tallas y estilos",
   },
   {
@@ -283,15 +296,15 @@ const new_releases = [
     showDetails: false,
     offer: false,
     type: "mix",
-    img: "image /new-releases/new (1).png",
-    video: "videos/new-release/Men Levi’s Nuevo.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406275/new_1_tf0n0k.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778407517/Men_Levi_s_Nuevo_ytycxp.mp4",
     desc: "Paca con prendas de ropa antigua, moda retro y gráficos. Incluye un mix de categorías. Por la naturaleza del vintage, algunas prendas pueden presentar manchas o pequeños detalles. 💡 Ideal para revendedores que buscan piezas retro de alta demanda y excelente rotación",
   },
 ];
 
-
 // ═══════════════════════════════════════
-// best sellers 
+// best sellers
 // ═══════════════════════════════════════
 
 const best_sellers = [
@@ -306,8 +319,9 @@ const best_sellers = [
     showDetails: true,
     offer: true,
     type: "mix",
-    img: "image /best seller/best seller (8).png",
-    video: "videos/free-shipping/Premium Winter Mix.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406093/fav_3_kbduv8.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409393/Premium_Winter_Mix_ydtvfd.mp4",
     desc: "Premium Mixto de Frío – Paca de Invierno Paca premium con ropa de invierno para hombre y mujer, cuidadosamente seleccionada. Incluye suéteres, chaquetas, abrigos, hoodies y prendas térmicas en diferentes tallas y estilos. Ideal para quienes buscan moda de temporada con alta calidad y excelente presentación.",
   },
   {
@@ -321,8 +335,9 @@ const best_sellers = [
     showDetails: true,
     offer: false,
     type: "mix",
-    img: "image /best seller/best seller (7).png",
-    video: "videos/best seller/Premium Children Mix 0-16.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778405898/best_seller_7_io0owr.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409493/Premium_Children_Mix_0-16_zidadc.mp4",
     desc: "Premium Bebé Calor Mixto (0-16) Paca premium + #1 con ropa mixta para niñas y niños de 0 a 16 años. Incluye entre 300 y 350 piezas, ideales para la temporada de verano, con diferentes estilos, colores y tallas. 💡 Perfecta para revendedores que buscan ropa infantil de alta calidad y excelente rotación.",
   },
   {
@@ -336,8 +351,9 @@ const best_sellers = [
     showDetails: true,
     offer: true,
     type: "mix",
-    img: "image /best seller/best seller (6).png",
-    video: "videos/free-shipping/TGT Credencial Mix.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406243/free_9_tyf4qe.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409297/TGT_Credencial_Mix_uiofxx.mp4",
     desc: "TGT Credencial Mixta 👕👗 (Aprox. 200 piezas) Ropa Americana Nueva de Saldos Paca mixta con ropa para mujer, hombre y niños, ideal para revendedores o tiendas que buscan surtido variado y de excelente presentación. Incluye prendas de verano e invierno, en tallas regulares hasta plus size, con una amplia variedad de diseños, colores y estilos.",
   },
   {
@@ -351,8 +367,9 @@ const best_sellers = [
     showDetails: true,
     offer: true,
     type: "nurse",
-    img: "image /best seller/best seller (5).png",
-    video: "videos/free-shipping/New Nurse.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406090/fav_8_mu8trj.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409087/New_Nurse_timvia.mp4",
     desc: "Enfermería Nuevo 👩⚕️ Ropa Nueva de Uniformes Profesionales Dentro de esta paca encontrarás una gran selección de uniformes nuevos de enfermería, con prendas tanto con etiqueta como sin etiqueta, cuidadosamente seleccionadas para uso profesional.",
   },
   {
@@ -366,8 +383,9 @@ const best_sellers = [
     showDetails: true,
     offer: false,
     type: "mix",
-    img: "image /best seller/best seller (4).png",
-    video: "videos/free-shipping/Premium Children's Winter Mix.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406111/fav_6_tqwpah.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409333/Premium_Children_s_Winter_Mix_lop2y3.mp4",
     desc: "Premium Niño Frío Mixto Paca premium con ropa de invierno para niños y niñas, incluyendo chaquetas, suéteres, pantalones y accesorios. Incluye diferentes estilos, tallas, colores y materiales, cómodos, cálidos y modernos. ✨ Perfecta para revendedores que buscan prendas infantiles de alta calidad y excelente rotación.",
   },
   {
@@ -381,8 +399,9 @@ const best_sellers = [
     showDetails: false,
     offer: false,
     type: "sweat",
-    img: "image /best seller/best seller (3).png",
-    video: "videos/new-release/Men Levi’s Nuevo.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406268/new_2_s87ysh.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778407517/Men_Levi_s_Nuevo_ytycxp.mp4",
     desc: "Men Levi's New Especificaciones importantes Peso: Apprx: 90 a 100 lbs Tipo de ropa: Ropa de hombre Temporada: Ropa de verano Calidad: Premium (Grado AAA) Cantidad (PC): 60 Contiene: Pantalones Levi’s de diferentes tallas y estilos",
   },
   {
@@ -396,8 +415,9 @@ const best_sellers = [
     showDetails: true,
     offer: false,
     type: "mix",
-    img: "image /best seller/best seller (2).png",
-    video: "videos/new-release/Mixta Summer Premium Juvenil.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406095/fav_7_mmssdj.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778407637/Mixta_Summer_Premium_Juvenil_nsxacd.mp4",
     desc: "Ropa de Enfermería Usada 👩⚕️🩺 Ropa Americana Ligeramente Usada Paca de 100 lbs con ropa de enfermería para hombre y mujer, en combinación de calidades #1 y #2. Incluye aprox. 180–200 piezas (no contadas), todas en buen estado, sin prendas rotas ni con cloro. Ideal para todas las temporadas, con uniformes cómodos, funcionales y listos para reventa.",
   },
   {
@@ -411,8 +431,7 @@ const best_sellers = [
     showDetails: false,
     offer: true,
     type: "mix",
-    img: "image /best seller/best seller (1).png",
-    // video: "videos/new-release/Men Levi’s Nuevo.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778405910/best_seller_1_ycaukn.png",
     desc: "TGT Tallas Grandes Explora esta paca de ropa nueva de saldos TGT en tallas grandes para mujeres, hombres y niños. Incluye entre 100 y 130 piezas, con diseños variados y estilos mixtos, algunas prendas pueden repetirse o no traer etiqueta. 💚 Perfecta para ofrecer variedad de tallas oversize y agregar valor a tu inventario con prendas listas",
   },
 ];
@@ -433,8 +452,7 @@ const foot_wear = [
     showDetails: true,
     offer: true,
     type: "footwear",
-    img: "image /footwear/footwear (3).png",
-    // video: "videos/free-shipping/Premium Winter Mix.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406151/footwear_3_pbxosq.png",
     desc: "Tenis Deportivos Mixtos #2 👟 Calzado Americano Ligeramente Usado Paca de 44 lbs con tenis deportivos y juveniles en tallas mixtas. Incluye variedad de estilos ideales para reventa o surtido diverso.",
   },
   {
@@ -448,7 +466,7 @@ const foot_wear = [
     showDetails: false,
     offer: false,
     type: "footwear",
-    img: "image /footwear/footwear (4).png",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406158/footwear_4_xw9usc.png",
     // video: "videos/free-shipping/TGT Credencial Mix.mp4",
     desc: "Calzado Infantil #2 👟 Calzado Americano Ligeramente Usado Paca de 55 lbs con calzado infantil surtido en tallas mixtas. Incluye variedad de estilos ideales para reventa o surtido diverso.",
   },
@@ -463,8 +481,7 @@ const foot_wear = [
     showDetails: false,
     offer: false,
     type: "footwear",
-    img: "image /footwear/footwear (2).png",
-    // video: "videos/free-shipping/New Nurse.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406155/footwear_2_bbobyj.png",
     desc: "",
   },
   {
@@ -478,12 +495,10 @@ const foot_wear = [
     showDetails: false,
     offer: false,
     type: "footwear",
-    img: "image /footwear/footwear (1).png",
-    // video: "videos/best seller/Premium Children Mix 0-16.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406154/footwear_1_njtr8h.png",
     desc: "Calzado de Mujer #1 👠 Calzado Americano Ligeramente Usado Paca de 55 lbs con calzado femenino surtido en tallas mixtas. Incluye variedad de estilos modernos, ideales para reventa o surtido diverso.",
   },
 ];
-
 
 // ═══════════════════════════════════════
 // PAGE INIT — Free Shipping
@@ -501,8 +516,9 @@ const premuim_bales = [
     showDetails: true,
     offer: true,
     type: "mix",
-    img: "image /best seller/best seller (8).png",
-    video: "videos/free-shipping/Premium Winter Mix.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406093/fav_3_kbduv8.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409393/Premium_Winter_Mix_ydtvfd.mp4",
     desc: "Premium Mixto de Frío – Paca de Invierno Paca premium con ropa de invierno para hombre y mujer, cuidadosamente seleccionada. Incluye suéteres, chaquetas, abrigos, hoodies y prendas térmicas en diferentes tallas y estilos. Ideal para quienes buscan moda de temporada con alta calidad y excelente presentación.",
   },
   {
@@ -516,8 +532,9 @@ const premuim_bales = [
     showDetails: true,
     offer: false,
     type: "mix",
-    img: "image /best seller/best seller (7).png",
-    video: "videos/best seller/Premium Children Mix 0-16.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778405898/best_seller_7_io0owr.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409493/Premium_Children_Mix_0-16_zidadc.mp4",
     desc: "Premium Bebé Calor Mixto (0-16) Paca premium + #1 con ropa mixta para niñas y niños de 0 a 16 años. Incluye entre 300 y 350 piezas, ideales para la temporada de verano, con diferentes estilos, colores y tallas. 💡 Perfecta para revendedores que buscan ropa infantil de alta calidad y excelente rotación.",
   },
   {
@@ -531,8 +548,9 @@ const premuim_bales = [
     showDetails: true,
     offer: true,
     type: "mix",
-    img: "image /premium/premium (14).png",
-    video: "videos/premium/Premium Athletic Mix.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406340/premium_14_iquqzt.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778407082/Premium_Athletic_Mix_tdaowg.mp4",
     desc: "Premium Atlético Mixto 💪 Paca Premium con ropa deportiva mixta para hombre y mujer. Incluye entre 230–260 piezas de verano, con prendas cómodas, modernas leggin y de alto rendimiento. 📦 Por alta demanda, este producto tiene una demora aproximada de 2 semanas. ✨ Ideal para revendedores que buscan calidad superior en moda fitness.",
   },
   {
@@ -546,8 +564,9 @@ const premuim_bales = [
     showDetails: true,
     offer: true,
     type: "nurse",
-    img: "image /premium/premium (13).png",
-    video: "videos/free-shipping/Premium Children's Winter Mix.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406111/fav_6_tqwpah.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409333/Premium_Children_s_Winter_Mix_lop2y3.mp4",
     desc: "Premium Niño Frío Mixto Paca premium con ropa de invierno para niños y niñas, incluyendo chaquetas, suéteres, pantalones y accesorios. Incluye diferentes estilos, tallas, colores y materiales, cómodos, cálidos y modernos. ✨ Perfecta para revendedores que buscan prendas infantiles de alta calidad y excelente rotación.",
   },
   {
@@ -561,8 +580,9 @@ const premuim_bales = [
     showDetails: false,
     offer: true,
     type: "men",
-    img: "image /premium/premium (12).png",
-    video: "videos/free-shipping/Premium Children's Winter Mix.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406344/premium_12_cawsqf.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409333/Premium_Children_s_Winter_Mix_lop2y3.mp4",
     desc: "Premium Mujer Mixto Tallas Grandes Paca premium con una mezcla de ropa de mujer en tallas grandes, ideal para temporada de verano. Incluye blusas, vestidos, shorts, pantalones y más, en diferentes estilos, telas y colores. 💃 Perfecta para negocios que buscan ofrecer moda plus size moderna, fresca y con excelente calidad.",
   },
   {
@@ -576,8 +596,9 @@ const premuim_bales = [
     showDetails: true,
     offer: true,
     type: "sweat",
-    img: "image /premium/premium (11).png",
-    video: "videos/free-shipping/Premium Oversize Winter.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406324/premium_4_fxr39g.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778408867/Premium_Oversize_Winter_tx7xjw.mp4",
     desc: "Ropa de Invierno Tallas Grandes Paca premium con ropa de invierno para mujer y hombre en tallas grandes. Incluye suéteres, chaquetas, hoodies y prendas térmicas en estilos modernos y cómodos. Ideal para quienes buscan moda de invierno oversize con alta calidad y excelente presentación.",
   },
   {
@@ -591,7 +612,7 @@ const premuim_bales = [
     showDetails: true,
     offer: false,
     type: "mix",
-    img: " image /premium/premium (10).png",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406330/premium_10_p2zmpq.png",
     video: "videos/premium/Premium Men Mix.mp4",
     desc: "Men’s Premium Mix 👕 Ropa Americana Ligeramente Usada Paca de 100 lbs con ropa de hombre para todas las temporadas. Calidad Premium, con una amplia variedad de tallas, materiales y estilos. Ideal para negocios que buscan moda masculina de alta calidad y excelente rotación.",
   },
@@ -606,7 +627,7 @@ const premuim_bales = [
     showDetails: true,
     offer: true,
     type: "mix",
-    img: " image /premium/premium (9).png",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406318/premium_9_ins88x.png",
     video: "videos/premium/Premium Mix.mp4",
     desc: "Premium Mixto Paca premium con ropa mixta para hombre y mujer, incluyendo diferentes estilos, tallas, colores y materiales. Adecuada para todas las temporadas, combinando prendas modernas y de alta calidad. ✨ Una selección versátil que aporta variedad y valor a tu inventario.",
   },
@@ -621,7 +642,7 @@ const premuim_bales = [
     showDetails: false,
     offer: true,
     type: "sweat",
-    img: "image /premium/premium (8).png",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406235/free_3_vxccvl.png",
     video: "videos/free-shipping/Premium Hoodie Sweat ShirA.mp4",
     desc: " Sudadera con Gorro Premium 🧥Ropa Americana Ligeramente Usada Paca de 100 lbs con sudaderas premium para hombre y mujer, ideales para la temporada de invierno. Calidad Premium, con 150–180 piezas de excelente estilo y presentación.",
   },
@@ -636,8 +657,7 @@ const premuim_bales = [
     showDetails: false,
     offer: false,
     type: "mix",
-    img: "image /premium/premium (7).png",
-    // video: "videos/new-release/Men Levi’s Nuevo.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406320/premium_7_ddu8nf.png",
     desc: "Chaqueta Mixta Premium 🧥 Ropa Americana de Alta CalidadPaca de 100 lbs con chaquetas mixtas de diferentes estilos, materiales y marcas. Incluye prendas para hombre y mujer, ideales para la temporada de invierno o clima fresco. Calidad Premium con piezas en excelente estado, modernas y con gran presentación. Perfecta para reventa o tiendas que buscan ropa de marca a precios accesibles.",
   },
   {
@@ -651,8 +671,9 @@ const premuim_bales = [
     showDetails: false,
     offer: true,
     type: "mix",
-    img: "image /premium/premium (6).png",
-    video: "videos/free-shipping/Premium Oversize Winter.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406328/premium_6_dqvii3.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778408867/Premium_Oversize_Winter_tx7xjw.mp4",
     desc: " Ropa Mixta Tallas Grandes Premium 👕👗Ropa Americana Ligeramente Usada Paca de 100 lbs con ropa mixta de tallas grandes (plus size) para hombre y mujer. Calidad Premium, ideal para todas las temporadas, con prendas modernas, cómodas y de excelente calidad. Perfecta para reventa o surtido plus size de alta rotación y estilo actual.",
   },
   {
@@ -666,8 +687,7 @@ const premuim_bales = [
     showDetails: false,
     offer: true,
     type: "ladies",
-    img: "image /premium/premium (5).png",
-    // video: "videos/new-release/Men Levi’s Nuevo.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406321/premium_5_xhjwtk.png",
     desc: "Paca intermedia con blazers elegantes para mujer, confeccionados en telas de excelente calidad, cómodas y con acabado profesional. Incluye diferentes tallas y estilos modernos, ideales para uso de oficina, eventos o looks formales durante todo el año.",
   },
   {
@@ -681,8 +701,7 @@ const premuim_bales = [
     showDetails: false,
     offer: false,
     type: "men",
-    img: "image /premium/premium (4).png",
-    // video: "videos/new-release/Men Levi’s Nuevo.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406324/premium_4_fxr39g.png",
     desc: "Premium Ladies Jeans 👖 Ropa Americana Ligeramente Usada Paca de 100 lbs con jeans para mujer en tallas y estilos variados. Calidad Premium, ideal para la temporada de verano, con prendas modernas, cómodas y de excelente presentación. Perfecta para reventa o surtido femenino de mezclilla de alta rotación.",
   },
   {
@@ -696,8 +715,7 @@ const premuim_bales = [
     showDetails: false,
     offer: false,
     type: "mix",
-    img: " image /premium/premium (3).png",
-    // video: "videos/new-release/Men Levi’s Nuevo.mp4",
+    img: " https://res.cloudinary.com/dremx6tnp/image/upload/v1778406310/premium_3_ntbfee.png",
     desc: "Niño Mixto Chaqueta #1 Paca premium con chamarras y chaquetas para niños y niñas, ideales para la temporada de invierno. Incluye diferentes estilos, tallas, colores y materiales, cálidas, cómodas y modernas. ✨ Perfecta para revendedores que buscan ropa infantil de alta calidad y excelente rotación.",
   },
   {
@@ -711,8 +729,7 @@ const premuim_bales = [
     showDetails: false,
     offer: true,
     type: "sweater",
-    img: " image /premium/premium (2).png",
-    // video: "videos/new-release/Men Levi’s Nuevo.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406289/new_6_xvoydh.png",
     // desc: "TGT Tallas Grandes Explora esta paca de ropa nueva de saldos TGT en tallas grandes para mujeres, hombres y niños. Incluye entre 100 y 130 piezas, con diseños variados y estilos mixtos, algunas prendas pueden repetirse o no traer etiqueta. 💚 Perfecta para ofrecer variedad de tallas oversize y agregar valor a tu inventario con prendas listas",
   },
   {
@@ -726,8 +743,7 @@ const premuim_bales = [
     showDetails: false,
     offer: false,
     type: "mix",
-    img: " image /premium/premium (1).png",
-    // video: "videos/new-release/Men Levi’s Nuevo.mp4",
+    img: " https://res.cloudinary.com/dremx6tnp/image/upload/v1778406308/premium_1_jsxlxh.png",
     // desc: "TGT Tallas Grandes Explora esta paca de ropa nueva de saldos TGT en tallas grandes para mujeres, hombres y niños. Incluye entre 100 y 130 piezas, con diseños variados y estilos mixtos, algunas prendas pueden repetirse o no traer etiqueta. 💚 Perfecta para ofrecer variedad de tallas oversize y agregar valor a tu inventario con prendas listas",
   },
 ];
@@ -748,8 +764,9 @@ const bales_2 = [
     showDetails: true,
     offer: false,
     type: "mix",
-    img: "image /bale-two/bale-two (1).png",
-    video: "videos/bale-two/Children 0-16 Mix.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778405716/bale-two_1_clayee.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409728/Children_0-16_Mix_nxpmgi.mp4",
     desc: "Mixto de Niños 0-16 #2 Paca intermedia con ropa mixta para niñas y niños de 0 a 16 años. Incluye entre 300 y 325 piezas, ideales para la temporada de verano, con diferentes estilos, tallas y colores. 💡 Perfecta para revendedores que buscan variedad infantil con buena calidad y excelente rotación..",
   },
   {
@@ -763,8 +780,9 @@ const bales_2 = [
     showDetails: true,
     offer: true,
     type: "mix",
-    img: "image /bale-two/bale-two (15).png",
-    video: "videos/bale-two/Baby 0-7 #2.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778405741/bale-two_15_eanvhz.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409728/Children_0-16_Mix_nxpmgi.mp4",
     desc: "Bebé de 0-7 #2 Paca intermedia con ropa mixta para niñas y niños de 0 a 7 años, ideal para la temporada de verano. Incluye entre 300 y 350 piezas, con diferentes estilos, tallas y colores..",
   },
   {
@@ -778,8 +796,9 @@ const bales_2 = [
     showDetails: true,
     offer: true,
     type: "kids",
-    img: "image /free_shipping/free (8).png",
-    video: "videos/free-shipping/Children Winter Mix.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778406242/free_8_hjoic2.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778408845/Children_Winter_Mix_cpceum.mp4",
     desc: "Frío Mixto de Niños #2 Paca intermedia con ropa de invierno para niños y niñas, incluyendo chaquetas, suéteres y pantalones. Incluye diferentes tallas, estilos, colores y materiales, cómodos, cálidos y modernos. ✨ Perfecta para revendedores que buscan prendas infantiles de temporada con buena rotación y presentación.",
   },
   {
@@ -793,8 +812,9 @@ const bales_2 = [
     showDetails: true,
     offer: true,
     type: "ladies",
-    img: "image /bale-two/bale-two (16).png",
-    video: "videos/bale-two/Ladies Mix.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778405772/bale-two_16_u0n5a0.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409789/Ladies_Mix_p5n5el.mp4",
     desc: "Vestidos Mixtos Paca intermedia con vestidos para dama en diferentes estilos, telas y tallas, perfectos para la temporada de verano. Incluye prendas casuales, elegantes y juveniles, listas para uso diario o eventos. ✨ Excelente opción para revendedores que buscan moda femenina variada y de alta rotación.",
   },
   {
@@ -808,7 +828,7 @@ const bales_2 = [
     showDetails: true,
     offer: true,
     type: "men",
-    img: "image /bale-two/bale-two (14).png",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778405730/bale-two_14_eun1pt.png",
     // video: "",
     desc: " Camiseta de Hombre Manga Larga #2 Paca intermedia con camisetas de manga larga para hombre, en diferentes tallas, estilos y colores. Incluye entre 180 y 200 piezas, ideales para climas frescos o uso casual. 💡 Excelente opción para revendedores que buscan calidad media con buena rotación.",
   },
@@ -823,8 +843,7 @@ const bales_2 = [
     showDetails: true,
     offer: true,
     type: "ladies",
-    img: "image /bale-two/bale-two (13).png",
-    // video: "videos/free-shipping/Premium Oversize Winter.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778405736/bale-two_13_vrw7pn.png",
     desc: "Vaqueros Ajustados de Mujer #2 Paca intermedia con jeans ajustados para dama, cómodos y modernos para uso casual o diario.Incluye diferentes tallas, estilos y lavados, ideales para la temporada de verano. 💡 Perfecta para revendedores que buscan moda femenina de buena calidad y alta rotación.",
   },
   {
@@ -838,8 +857,7 @@ const bales_2 = [
     showDetails: false,
     offer: false,
     type: "mix",
-    img: " image /bale-two/bale-two (11).png",
-    // video: "videos/premium/Premium Men Mix.mp4",
+    img: " https://res.cloudinary.com/dremx6tnp/image/upload/v1778405740/bale-two_11_xqmubo.png",
     desc: "Athletic Legging & Top #3 🩱 Ropa Americana Ligeramente Usada Paca de 100 lbs con ropa deportiva económica ideal para verano. Incluye leggings y tops en diferentes estilos y tallas. Perfecta para reventa o surtido fitness accesible.",
   },
   {
@@ -853,8 +871,7 @@ const bales_2 = [
     showDetails: false,
     offer: false,
     type: "men",
-    img: "image /bale-two/bale-two (12).png",
-    // video: "videos/premium/Premium Mix.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778405734/bale-two_12_y6xdzp.png",
     desc: "Camiseta De Hombre #2 👕 Paca intermedia con camisetas para hombre en tallas y estilos variados. Incluye entre 200–230 piezas de ropa de verano, cómodas y modernas. 💡 Perfecta para revendedores que buscan buena calidad a precio accesible.",
   },
   {
@@ -868,8 +885,9 @@ const bales_2 = [
     showDetails: true,
     offer: false,
     type: "sweat",
-    img: "image /bale-two/bale-two (10).png",
-    video: "videos/bale-two/Hoodie Sweat Shirt.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778405726/bale-two_10_dwwrvt.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778410018/Hoodie_Sweat_Shirt_usl5qh.mp4",
     desc: "Sudadera con Gorro #2 Paca económica con sudaderas con gorro para hombre y mujer, ideales para la temporada de invierno. Incluye entre 150 y 180 piezas, con diferentes estilos, colores y tallas, cómodas y casuales. 🔥 Perfecta para revendedores que buscan prendas de invierno accesibles con buena rotación y atractivo comercial.",
   },
   {
@@ -883,8 +901,9 @@ const bales_2 = [
     showDetails: true,
     offer: true,
     type: "ladies",
-    img: "image /bale-two/bale-two (9).png",
-    video: "videos/bale-two/Sexy Short 2.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778405735/bale-two_9_licn0o.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409847/Sexy_Short_2_st5i8b.mp4",
     desc: "Short Sensual #2 Paca intermedia con shorts sensuales para mujer, cómodos y modernos. Incluye entre 250 y 280 piezas de diferentes estilos, telas y tallas, ideales para la temporada de verano. 💃 Perfecta para revendedores que buscan moda femenina con buena rotación y atractivo comercial.",
   },
   {
@@ -898,8 +917,9 @@ const bales_2 = [
     showDetails: false,
     offer: false,
     type: "mix",
-    img: "image /bale-two/bale-two (8).png",
-    video: "videos/free-shipping/Premium Oversize Winter.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778405725/bale-two_8_x29o9q.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778408867/Premium_Oversize_Winter_tx7xjw.mp4",
     desc: "Brand T-Shirt Mix #2 👕 Ropa Americana Ligeramente Usada Paca de 100 libras con playeras de marca mixtas para hombre y mujer. Incluye una amplia variedad de estilos, colores y tallas, ideal para la temporada de verano. Las prendas son de calidad #2, seleccionadas para ofrecer una excelente combinación entre moda y valor.",
   },
   {
@@ -913,8 +933,9 @@ const bales_2 = [
     showDetails: true,
     offer: true,
     type: "ladies",
-    img: "image /bale-two/bale-two (7).png",
-    video: "videos/bale-two/Ladies T-Shirt LS.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778405727/bale-two_7_ok9p6m.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778410065/Ladies_T-Shirt_LS_knw7jf.mp4",
     desc: "Women's Long Sleeve T-Shirt #2 Important specifications Weight:  100 lbs. Clothing type:  Women's long-sleeved t-shirt.  Season:  Winter clothing . Quality:  Intermediate (Grade AA). Contains:  All types of clothing materials, sizes, and styles.",
   },
   {
@@ -928,8 +949,9 @@ const bales_2 = [
     showDetails: false,
     offer: true,
     type: "ladies",
-    img: "image /bale-two/bale-two (6).png",
-    video: "videos/bale-two/Ladies Mix Blouse.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778405721/bale-two_6_wnxnnl.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409740/Ladies_Leggings_pxhy3l.mp4",
     desc: "Blusa Mixta De Dama #2 👚 Paca intermedia con blusas mixtas para mujer en diversas telas, estilos y tallas. Ideal para la temporada de verano, con prendas frescas, cómodas y versátiles. 💡 Excelente opción para revendedores que buscan variedad y buena rotación.",
   },
   {
@@ -943,8 +965,9 @@ const bales_2 = [
     showDetails: true,
     offer: true,
     type: "ladies",
-    img: "image /bale-two/bale-two (5).png",
-    video: "videos/bale-two/Ladies Leggings.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778405721/bale-two_5_oj8sbv.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778409740/Ladies_Leggings_pxhy3l.mp4",
     desc: "Women's Leggings #2 🩳 Economical bale  of women's leggings in various styles, colors, and sizes . Includes between 180–220 pieces , ideal for resale or as a basic women's wardrobe . 💡 Perfect for those looking for good turnover at a low cost",
   },
   {
@@ -958,8 +981,7 @@ const bales_2 = [
     showDetails: true,
     offer: true,
     type: "baby",
-    img: "image /bale-two/bale-two (4).png",
-    // video: "videos/bale-two/Baby Accessories.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778405725/bale-two_4_zjfklk.png",
     desc: "Accesorios de Bebés #2 – Paca intermedia con una amplia variedad de accesorios para bebé, tanto para niño como para niña. Incluye gorros, baberos, calcetines, guantes, mantitas, pañaleras y otros artículos esenciales. 💡 Ideal para tiendas infantiles y revendedores que buscan productos prácticos, tiernos y de excelente rotación.",
   },
   {
@@ -973,8 +995,9 @@ const bales_2 = [
     showDetails: false,
     offer: false,
     type: "ladies",
-    img: "image /bale-two/bale-two (3).png",
-    video: "videos/bale-two/Ladies Oversize Jeans.mp4",
+    img: "https://res.cloudinary.com/dremx6tnp/image/upload/v1778405711/bale-two_3_iq1are.png",
+    video:
+      "https://res.cloudinary.com/dremx6tnp/video/upload/v1778410023/Ladies_Oversize_Jeans_dfdfiq.mp4",
     desc: "Mezclilla Tallas Grandes de Mujer #2 Paca intermedia con jeans y prendas de mezclilla para dama en tallas grandes, en variedad de estilos y lavados. Incluye aproximadamente 180 a 200 piezas resistentes, cómodas y modernas. 💡 Ideal para quienes buscan moda plus size con buena calidad y excelente rotación de venta.",
   },
 ];

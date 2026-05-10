@@ -512,27 +512,66 @@ function closeCheckout() {
   document.body.style.overflow = "";
 }
 
-function placeOrder() {
+async function placeOrder() {
   const fname = document.getElementById("fname")?.value.trim();
   const lname = document.getElementById("lname")?.value.trim();
   const email = document.getElementById("email")?.value.trim();
   const phone = document.getElementById("phone")?.value.trim();
   const country = document.getElementById("country")?.value;
- if (!fname || !lname || !email || !phone || !country) {
-   showToast("⚠️ Por favor completa todos los campos");
-   return;
- }
- if (!selectedPaymentMethod) {
-   showToast("⚠️ Por favor selecciona un método de pago");
-   return;
- }
+
+  if (!fname || !lname || !email || !phone || !country) {
+    showToast("⚠️ Por favor completa todos los campos");
+    return;
+  }
+  if (!selectedPaymentMethod) {
+    showToast("⚠️ Por favor selecciona un método de pago");
+    return;
+  }
+
+  const city = document.getElementById("city")?.value.trim() || "";
+  const address = document.getElementById("address")?.value.trim() || "";
+  const notes = document.getElementById("notes")?.value.trim() || "";
+  const orderNumber = "TB-" + Math.floor(Math.random() * 90000 + 10000);
+  const total = cartTotal();
+
+  const itemsList = cart
+    .map((i) => `• ${i.name} x${i.qty} — $${(i.price * i.qty).toFixed(2)}`)
+    .join("\n");
+
+  const message = `🛍️ *NUEVO PEDIDO — ${orderNumber}*
+
+👤 *Cliente:* ${fname} ${lname}
+📧 *Email:* ${email}
+📱 *Teléfono:* ${phone}
+🌍 *País:* ${country}
+${city ? `🏙️ *Ciudad:* ${city}` : ""}
+${address ? `📍 *Dirección:* ${address}` : ""}
+
+📦 *Productos:*
+${itemsList}
+
+💰 *Total: $${total.toFixed(2)} USD*
+💳 *Método de pago:* ${selectedPaymentMethod}
+${notes ? `📝 *Notas:* ${notes}` : ""}
+
+_Enviado desde Mangy's Textile Exports_`;
+
+  // Show success screen
   const formView = document.getElementById("checkout-form-view");
   const successScreen = document.getElementById("success-screen");
   const orderNum = document.getElementById("order-number");
   if (formView) formView.style.display = "none";
-  if (orderNum)
-    orderNum.textContent = "TB-" + Math.floor(Math.random() * 90000 + 10000);
+  if (orderNum) orderNum.textContent = orderNumber;
   if (successScreen) successScreen.style.display = "block";
+
+  // Open WhatsApp
+  const whatsappNumber = "18022897558"; // ← your number
+  const whatsappURL = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
+    message,
+  )}`;
+  setTimeout(() => window.open(whatsappURL, "_blank"), 800);
+
+  showToast("✅ Pedido enviado — abriendo WhatsApp");
 }
 
 function resetAfterOrder() {
