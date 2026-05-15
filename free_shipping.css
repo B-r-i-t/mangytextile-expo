@@ -475,7 +475,8 @@ main {
   top: 0;
   right: -420px;
   width: 380px;
-  height: 100vh;
+  height: 100%;          /* ← change from 100vh to 100% */
+  max-height: 100dvh;    /* ← add this — "dynamic viewport height" */
   background: var(--white);
   z-index: 101;
   display: flex;
@@ -483,8 +484,9 @@ main {
   transition: right 0.3s ease;
   box-shadow: -4px 0 24px rgba(0, 0, 0, 0.1);
   overflow: hidden;
-  padding: 10px 16px 16px;
+  padding: 10px 16px 0;  /* ← remove bottom padding here */
 }
+
 
 .cart-sidebar.open {
   right: 0;
